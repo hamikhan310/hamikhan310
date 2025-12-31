@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently software engineer student 1.5 years left <br>Coding in java scipt,java,c++,Html css,c#<br>Video graphy<br>Photography <br>Nature lover <br>
+Software engineer<br> Coding 💻💻
+<br>😁Learnning nothing daily<br>
 
 
 # 💻 Tech Stack:
